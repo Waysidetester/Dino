@@ -12,3 +12,16 @@ body {
 .card {
     width: 50%;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    background-color: black;
+    color: white;
+}
